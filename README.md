@@ -18,3 +18,6 @@ Content-based filtering is commonly used for recommender systems. It treats reco
 ## Author
 *Amandeep Thind*
 [Website](https://aman-thind.github.io/Portfolio "Welcome")
+
+
+mit

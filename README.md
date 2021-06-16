@@ -12,7 +12,7 @@ Content-based filtering is commonly used for recommender systems. It treats reco
 - Surprise - used for making recommendation system models
 
 
-![alt text](https://raw.githubusercontent.com/aman-thind/Data-Viz/main/Data%20pipeline.png)
+![alt text](https://raw.githubusercontent.com/aman-thind/Data-Viz/main/PIPELINE.png)
 
 
 ## Author
@@ -20,4 +20,4 @@ Content-based filtering is commonly used for recommender systems. It treats reco
 [Website](https://aman-thind.github.io/Portfolio "Welcome")
 
 
-mit
+MIT license

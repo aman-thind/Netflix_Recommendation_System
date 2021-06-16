@@ -5,11 +5,11 @@ Content-based filtering is commonly used for recommender systems. It treats reco
 ## Build with
 - Jupyter notebook 
 - sklearn - Machine learning library
--seaborn, matplotlib.pyplot, - Visualization libraries
--numpy, scipy- number python library
--pandas - data handling library
--XGBoost - Used for making regression models
--Surprise - used for making recommendation system models
+- seaborn, matplotlib.pyplot, - Visualization libraries
+- numpy, scipy- number python library
+- pandas - data handling library
+- XGBoost - Used for making regression models
+- Surprise - used for making recommendation system models
 
 
 ![alt text](https://raw.githubusercontent.com/aman-thind/Data-Viz/main/Data%20pipeline.png)

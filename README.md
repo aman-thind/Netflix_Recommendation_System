@@ -2,4 +2,4 @@
 Making a content-based recommender system based on the description of movies and tv shows.
 
 
-https://raw.githubusercontent.com/aman-thind/Data-Viz/main/Data%20pipeline.png
+![alt text](https://raw.githubusercontent.com/aman-thind/Data-Viz/main/Data%20pipeline.png)

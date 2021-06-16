@@ -3,7 +3,7 @@ A content-based recommender system based on the description of movies and tv sho
 Content-based filtering is commonly used for recommender systems. It treats recommendation as a user-specific classification problem and learn a classifier for the user's likes and dislikes based on an item's features. In this system, it tries to recommend items that are similar to those that a user liked in the past, or is examining in the present and the best-matching items are recommended. This uses information retrieval and information filtering.
 
 ## Build with
-# Jupyter notebook 
+1. Jupyter notebook 
 -sklearn - Machine learning library
 -seaborn, matplotlib.pyplot, - Visualization libraries
 -numpy, scipy- number python library
